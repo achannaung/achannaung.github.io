@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.achannaung.quotemaker",
+        "sha256_cert_fingerprints": ["9B:3C:C5:CB:29:4E:14:A4:D1:15:77:CE:42:6F:E6:FE:3D:56:13:D5:76:2F:F0:C7:1E:12:E3:83:19:03:E8:62"]
+      }
+    }]
